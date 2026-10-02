@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-jd-decode",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "JD 解码 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-jd-decode": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "jd-decode"
+  ]
+}
